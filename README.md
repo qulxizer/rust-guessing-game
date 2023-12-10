@@ -1,6 +1,6 @@
 # rust-guessing-game
 
-"Rust guessing game" the idea of the game is generating a number between (x and y) for e.g. 1 to 100, and whenever the use enter a guess the game returns the guess is greater or less than the secret number, using rust.
+"Rust guessing game" the idea of the game is generating a number between (x and y) for e.g. 1 to 100, and whenever the user enter a guess the game returns the guess is greater or less than the secret number, using rust.
 
 ```
 - [x] Making Greeting for the game.
