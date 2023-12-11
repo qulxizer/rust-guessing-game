@@ -6,8 +6,8 @@
 - [x] Making Greeting for the game.
 - [x] Getting input from the user.
 - [x] Get random number using [rand](https://github.com/rust-random/rand).
-- [ ] Comparing the guess to the secret number.
-- [ ] returning if the number is greater or less than the secret number.
+- [x] Comparing the guess to the secret number.
+- [x] returning if the number is greater or less than the secret number.
 - [ ] compile everything to windows, mac and linux.
 
 ```
